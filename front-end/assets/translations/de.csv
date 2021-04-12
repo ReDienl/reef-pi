@@ -1,71 +1,71 @@
 Key,Translation
-add,
-alerts,
-analog_input,
-analog_inputs,
-are_you_sure,
-ato,
-cancel,
-charts,
-clear,
-color,
-columns,
-configure,
-delete,
-disabled,
-documentation,
-done,
-doser,
-driver,
-edit,
-enabled,
-end_time,
-equipment,
-errors,
-full_moon,
-health,
-height,
-import_db,
-in-use,
-inlet,
-inlets,
-install,
-jack,
-jacks,
-light,
-lights,
-loading,
-maximum,
-minimum,
-name,
-none,
-off,
-ok,
-on,
-one_shot,
-outlet,
-outlets,
-pin,
-profile,
-reverse,
-rows,
-running,
-save,
-schedule,
-sec,
+add, Hinzufügen
+alerts, Alarm
+analog_input, Analog-Eingang
+analog_inputs, Analog-Eingänge
+are_you_sure, Bist Du sicher
+ato, ATO
+cancel, Abbrechen
+charts, Diagramme
+clear, löschen
+color, Farbe
+columns, Spalten
+configure, 
+delete, löschen
+disabled, deaktiviert
+documentation, Dokumentation
+done, erledigt
+doser, Dosierer
+driver, Treiber
+edit, editieren
+enabled, aktiviert
+end_time, Endzeitpunkt
+equipment, Gerät
+errors, Fehlermeldungen
+full_moon, Vollmond
+health, Zustand
+height, Höhe
+import_db, Import-DB
+in-use, benutzt
+inlet, Eingang
+inlets, Eingänge
+install, installieren
+jack, Buchse/Stecker
+jacks, Buchsen/Stecker
+light, Beleuchtung
+lights, Beleuchtung
+loading, laden
+maximum, maximum
+minimum, minimum
+name, Name
+none, nichts
+off, aus
+ok, okay
+on, ein
+one_shot, einmal
+outlet, Ausgang
+outlets, Ausgänge
+pin, Pin/Anschluss
+profile, Profil
+reverse, umkehren
+rows, Reihen
+running, in Betrieb
+save, speichern
+schedule, Zeitplan
+sec, s
 second_s,
-select,
-select_file,
-since,
-start_time,
-status,
-unit,
-update,
-upgrade_reef_pi,
-width,
+select, auswählen
+select_file, wähle Datei
+since, seit
+start_time, Startzeit
+status, Status
+unit, Einheit/Gerät
+update, aktualisieren
+upgrade_reef_pi, aktualisiere_reef_pi
+width, Breite
 ato:alert_after,
 ato:ato_usage,
-ato:chk_freq,
+ato:chk_freq, ato:
 ato:chk_freq_number,
 ato:chk_freq_number_value,
 ato:chk_freq_required,
